@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/anaxilaus/osin-postgres/storage"
+	"github.com/optimisticninja/osin-postgres/storage"
 	_ "github.com/lib/pq"
-	"github.com/openshift/osin"
+	"github.com/optimisticninja/osin"
 	"github.com/pborman/uuid"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

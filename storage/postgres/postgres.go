@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/go-errors/errors"
-	"github.com/openshift/osin"
+	"github.com/optimisticninja/osin"
 )
 
 var (
